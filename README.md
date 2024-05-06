@@ -26,4 +26,6 @@ Clone this repository:
 ```
 
 ## Usage
+```
 python main.py
+```
