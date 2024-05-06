@@ -24,5 +24,5 @@ Clone this repository:
    cd spreadsheet-voice-bot
    pip install -r requirements.txt
 
-# Usage
+## Usage
 python main.py
