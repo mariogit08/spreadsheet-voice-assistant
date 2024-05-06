@@ -23,6 +23,7 @@ Clone this repository:
    git clone https://github.com/your-username/spreadsheet-voice-bot.git
    cd spreadsheet-voice-bot
    pip install -r requirements.txt
+```
 
 ## Usage
 python main.py
